@@ -1,4 +1,4 @@
-#ignore following
+#ignore the following files
 
 moving_average.py
 cylinderical_brush.py
@@ -23,7 +23,3 @@ make_lammps_polymer_brush_with_end_with_solvent.tcl
 
 generate-input/
 minimize/
-
-
-
-
